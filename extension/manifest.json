@@ -26,5 +26,8 @@
       "run_at": "document_end"
     }
   ],
-  "host_permissions": ["https://sharegpt.com/*"]
+  "host_permissions": [
+    "https://sharegpt.com/*",
+    "https://nlp.laban.vn/*"
+  ]
 }

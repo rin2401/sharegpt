@@ -1,7 +1,10 @@
 let isRequesting = false;
 
-const API_URL = "https://sharegpt.com/api/conversations";
-const PAGE_URL = "https://sharegpt.com/c/";
+// const API_URL = "https://sharegpt.com/api/conversations";
+// const PAGE_URL = "https://sharegpt.com/c/";
+
+const API_URL = "https://nlp.laban.vn/wiki/sharegpt/";
+const PAGE_URL = "https://nlp.laban.vn/wiki/sharegpt/?id=";
 
 // const API_URL = "http://localhost:3000/api/conversations";
 // const PAGE_URL = "http://localhost:3000/c/";
